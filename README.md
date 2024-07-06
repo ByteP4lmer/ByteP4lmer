@@ -10,8 +10,9 @@ I'm ByteP4lmer, a cibersecurity, programming and OSINT enthusiast, proactive and
 - [SSOOIIGLE I](https://github.com/ByteP4lmer/SSOOIIGLE-Part-1) and [SSOOIIGLE II](https://github.com/ByteP4lmer/SSOOIIGLE-Part-2) - Client-server simulation of a word search engine with different users types and characteristics.
 - [API REST](https://github.com/ByteP4lmer/Seguridad-en-Redes) - Implementation of an API REST for the Network Security subject
 - [Docker](https://github.com/ByteP4lmer/P4-SegRed) - The updated API REST with Docker.
-- [Intelligent systems project](https://github.com/ByteP4lmer/SI_LAB_B1_1) - Project for the Intelligent Systems subject.
+
 - [Weekly chalenges](https://github.com/ByteP4lmer/retos-programacion-2023) of [@mouredev](https://github.com/mouredev) - Diferents programming chalenges with some solutions.
+<!--- [Intelligent systems project](https://github.com/ByteP4lmer/SI_LAB_B1_1) - Project for the Intelligent Systems subject.-->
 
 ## GitHub statistics 📊
 
